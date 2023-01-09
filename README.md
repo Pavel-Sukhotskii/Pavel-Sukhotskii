@@ -1,11 +1,6 @@
 
 ### Hello my name is Pavel 👋
 
-
-My first degree was in sound design. 
-In 2020 Understood that I wanna change my profession and started Data science courses.
-Now I'm working in marketing research company eMazing-retailing as a junior Data Analyst and gaining my math and statistics skills on a courses.
-
 ---
 ### About me:
 
